@@ -1,0 +1,8 @@
+C:\Users\Utente\Desktop\DiscordInjector\DiscordInjector\bin\Debug\DiscordInjector.exe.config
+C:\Users\Utente\Desktop\DiscordInjector\DiscordInjector\bin\Debug\DiscordInjector.exe
+C:\Users\Utente\Desktop\DiscordInjector\DiscordInjector\bin\Debug\DiscordInjector.pdb
+C:\Users\Utente\Desktop\DiscordInjector\DiscordInjector\obj\Debug\DiscordInjector.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\DiscordInjector\DiscordInjector\obj\Debug\DiscordInjector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utente\Desktop\DiscordInjector\DiscordInjector\obj\Debug\DiscordInjector.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\DiscordInjector\DiscordInjector\obj\Debug\DiscordInjector.exe
+C:\Users\Utente\Desktop\DiscordInjector\DiscordInjector\obj\Debug\DiscordInjector.pdb
